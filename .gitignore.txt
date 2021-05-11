@@ -1,1 +1,9 @@
+# Ignore in
+in
 *.in
+# Ignore out
+out
+*.out
+# Ignore pyc
+pyc
+*.pyc
