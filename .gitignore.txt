@@ -7,3 +7,6 @@
  peein.out
  vpoio.in
  yeiva.pyc
+ bhnog.in
+ hwkdb.pyc
+ sqhjs.out
